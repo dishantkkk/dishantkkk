@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👾 I love to learn related to computers, internet, technologies, languages.
+- 📈 Learning something daily, Nowadays Angular and Microservices using Spring boot.
+<!--
+
+- 📫 Feel free to connect with me on my other [online profiles.](https://linktr.ee/) 
+-->
+
 <!--
 **dishantkkk/dishantkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
