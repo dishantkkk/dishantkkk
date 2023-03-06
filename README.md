@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👾 I love to learn related to computers, internet, technologies, languages.
-- 📈 Learning something daily, Nowadays Angular and Microservices using Spring boot.
+- 📈 Learning something daily, Nowadays React and Microservices using Spring boot.
 <!--
 
 - 📫 Feel free to connect with me on my other [online profiles.](https://linktr.ee/) 
