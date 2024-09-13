@@ -1,23 +1,56 @@
-### Hi there 👋
+# 👋 Hi, I'm Dishant Kumar Kushwaha!
 
-- 👾 I love to learn.
-- 📈 Learning something daily.
-<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dishantkkk)
+[![GitHub](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/dishantkkk)
 
-- 📫 Feel free to connect with me on my other [online profiles.](https://linktr.ee/) 
--->
+---
 
-<!--
-**dishantkkk/dishantkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a **Senior Software Development Engineer** with experience in application migration, distributed systems, and cloud technologies. I'm passionate about **Data Structures & Algorithms**, **Java**, and **backend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently exploring **Striver’s A2Z DSA** to master DSA.
+- 🎯 Skilled in **Java**, **Spring Boot**, **Microservices**, **Docker**, and **Kubernetes**.
+- 🌱 Constantly learning about **Cloud technologies**, **AKS**, and **APIM**.
+- 💬 Ask me about **system design**, **performance optimization**, and **DSA**.
+- ⚡ Fun fact: I love solving coding challenges and I play **chess** and **cricket**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks and Libraries:**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Tools & Platforms:**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [your-email@example.com](mailto:dishantkushwaha71@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dishantkkk)
+
+---
+
+### 🏆 Achievements
+
+- Led a team of developers in migrating a large-scale system to **AKS**.
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
