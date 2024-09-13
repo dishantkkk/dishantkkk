@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Software Development Engineer** with experience in application migration, distributed systems, and cloud technologies. I'm passionate about **Data Structures & Algorithms**, **Java**, and **backend development**.
+I'm a **Senior Software Development Engineer** with experience in backend application development, cloud migration, distributed systems, and cloud technologies. I'm passionate about **Java**, **backend development** and **Data Structures & Algorithms**.
 
 - 🔭 Currently exploring **Striver’s A2Z DSA** to master DSA.
 - 🎯 Skilled in **Java**, **Spring Boot**, **Microservices**, **Docker**, and **Kubernetes**.
