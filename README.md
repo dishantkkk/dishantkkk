@@ -23,7 +23,7 @@ I'm a **Senior Software Development Engineer** with experience in backend applic
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kafka](https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png)
+![Kafka](https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png?style=for-the-badge&logo=kafka&logoColor=white)
 
 **Frameworks and Libraries:**
 
