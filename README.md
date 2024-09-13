@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dishant Kumar Kushwaha!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dishantkkk)
-[![GitHub](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/dishantkkk)
+[![GitHub](https://img.shields.io/github/followers/dishantkkk?style=social)](https://github.com/dishantkkk)
 
 ---
 
@@ -40,8 +40,8 @@ I'm a **Senior Software Development Engineer** with experience in application mi
 
 ## 📫 Contact Me
 
-- 📧 Email: [your-email@example.com](mailto:dishantkushwaha71@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dishantkkk)
+- 📧 Email: [dishantkushwaha71@gmail.com](mailto:dishantkushwaha71@gmail.com)
+- 💼 LinkedIn: [Dishant](https://www.linkedin.com/in/dishantkkk)
 
 ---
 
