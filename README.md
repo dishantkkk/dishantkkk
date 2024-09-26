@@ -9,10 +9,10 @@
 
 I'm a **Senior Software Development Engineer** with experience in backend application development, cloud migration, distributed systems, and cloud technologies. I'm passionate about **Java**, **backend development** and **Data Structures & Algorithms**.
 
-- 🔭 Currently exploring **Striver’s A2Z DSA** to master DSA.
 - 🎯 Skilled in **Java**, **Spring Boot**, **Microservices**, **Docker**, and **Kubernetes**.
-- 🌱 Constantly learning about **Cloud technologies**, **AKS**, and **APIM**.
-- 💬 Ask me about **system design**, **performance optimization**, and **DSA**.
+- 🌱 Constantly learning about **Cloud technologies**.
+- 🔭 Currently trying to master **DSA**.
+- 💬 Ask me about **Java**, **Backend development** and **Cloud**.
 - ⚡ Fun fact: I love solving coding challenges and I play **chess** and **cricket**.
 
 ---
