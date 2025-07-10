@@ -62,7 +62,7 @@ Here are a few things I’ve worked on or am building:
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - ✅ Contribute to open source regularly
 - 🔁 Solve 300+ DSA problems (LeetCode + GFG)
