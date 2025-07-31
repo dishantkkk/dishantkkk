@@ -46,6 +46,7 @@ I’m a **Senior Software Development Engineer** passionate about building clean
 
 Here are a few things I’ve worked on or am building:
 
+- 📊 **[https://github.com/orgs/SaaS-CRM-Billing-Platform-with-AI/repositories](#)** *(WIP)* — SaaS-CRM-Billing-Platform-with-AI  
 - 📝 **[Task Management Backend](https://github.com/dishantkkk/task-management-backend)** — BAckend app with Spring Boot, JWT Auth, Redis scheduling.
 - 📝 **[Task Management Api](https://github.com/dishantkkk/task-management-api)** — Front-end app with React UI and Tailwind
 - 📊 **[System Monitoring Dashboard](#)** *(WIP)* — Spring Actuator + Prometheus + Grafana  
