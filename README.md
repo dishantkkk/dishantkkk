@@ -6,14 +6,18 @@
 
 ---
 
+🚀 **Backend Engineer | Java + Spring Boot | Microservices | Cloud-Native Dev | DSA Enthusiast**
+
+---
+
 ## 🧑‍💻 About Me
 
 I’m a **Senior Software Development Engineer** passionate about building clean, scalable, and cloud-native backend systems. My journey so far includes designing distributed services, deploying them in production at scale, and continuously learning to become a better engineer every day.
 
 - 👨‍💼 Backend Developer | Cloud Enthusiast | DevOps Curious
 - 🧠 Focused on **Java**, **Spring Boot**, **Microservices**, and **System Design**
-- 🛠️ Cloud Migration Specialist — led successful migration to **AKS**
-- 💡 Always learning and sharing about **DSA**, **architecture**, and **backend patterns**
+- 🛠️ Cloud Migration — led successful migration to **AKS**
+- 💡 Always learning and sharing about **DSA**, **Architecture**, and **Backend patterns**
 - 🎯 Currently exploring: Kubernetes, Kafka, Redis, and System Monitoring
 - 🧩 Interests: Chess ♟️, Cricket 🏏, Coding Challenges 💻
 
@@ -44,11 +48,14 @@ I’m a **Senior Software Development Engineer** passionate about building clean
 
 ## 🚀 Featured Projects
 
-Here are a few things I’ve worked on or am building:
+### 📊 [SaaS CRM + Billing Platform with AI](https://github.com/orgs/SaaS-CRM-Billing-Platform-with-AI/repositories) *(Work in Progress)*
+> Microservices-based CRM and Invoice Management Platform with AI integrations
 
-- 📊 **[SaaS-CRM-Billing-Platform-with-AI](https://github.com/orgs/SaaS-CRM-Billing-Platform-with-AI/repositories)** *(WIP)* — SaaS CRM + Invoice & Billing Platform with AI
-- 📝 **[Task Management Backend](https://github.com/dishantkkk/task-management-backend)** — BAckend app with Spring Boot, JWT Auth, Redis scheduling.
-- 📝 **[Task Management Api](https://github.com/dishantkkk/task-management-api)** — Front-end app with React UI and Tailwind
+### ✅ [Task Management Backend](https://github.com/dishantkkk/task-management-backend)
+> Spring Boot, JWT Auth, Redis Scheduler, Role-based Admin Panel
+
+### 🎨 [Task Management UI](https://github.com/dishantkkk/task-management-api)
+> React + Tailwind CSS Frontend with animations, filtering, and task dashboards
 
 ---
 
@@ -67,8 +74,8 @@ Here are a few things I’ve worked on or am building:
 - ✅ Contribute to open source regularly
 - 🔁 Solve 300+ DSA problems (LeetCode + GFG)
 - 🧠 Master Kafka, Redis, and Prometheus
+- ☁️ Expand cloud architecture skills
 - 🚀 Build and deploy 3 production-grade side projects
-- 🎓 Get hands-on in more cloud services
 
 ---
 
